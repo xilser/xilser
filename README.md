@@ -2,7 +2,6 @@
 
 🎓 **Computer Science Student** at UNLP 
 💻 **Full Stack Developer in Training** | Currently diving deep into **Node.js** ecosystem  
-🌱 Passionate about building scalable solutions and learning modern technologies
 
 ### 👨💻 Current Focus
 - Sharpening my backend development skills with **Node.js** and **Express**
@@ -24,7 +23,7 @@
 - Exploring cloud platforms and DevOps concepts
 
 ### 💡 University Projects
-Working on various academic projects at UNLP Informática that combine:
+Working on various academic projects at UNLP that combine:
 - Algorithm design and optimization
 - Software engineering principles
 - Systems architecture fundamentals
